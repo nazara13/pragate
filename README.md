@@ -1,1 +1,1 @@
-# pragate
+# progate
